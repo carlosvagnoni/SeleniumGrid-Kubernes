@@ -1,5 +1,9 @@
 # SeleniumGrid-Kubernetes
 
+![Static Badge](https://img.shields.io/badge/Selenium%20Grid-logo?style=for-the-badge&logo=selenium&logoColor=white&labelColor=rgb(0%2C%20174%2C%200)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/kubernetes-logo?style=for-the-badge&logo=kubernetes&logoColor=rgb(49%2C%20108%2C%20230)&labelColor=white&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/docker-logo?style=for-the-badge&logo=docker&logoColor=white&labelColor=rgb(28%2C%20140%2C%20237)&color=rgb(22%2C%2027%2C%2034))
+
 This repository contains Kubernetes deployment files to set up a Selenium Grid cluster using Kubernetes.
 
 The configurations in this repository facilitate the creation of a Selenium Grid setup consisting of a hub and various browser nodes (Chrome, Firefox, and Edge). This setup enables efficient parallel test execution and browser compatibility testing.
